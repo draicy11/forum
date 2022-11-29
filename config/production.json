@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://draicy:poiuy@keeper-data.wqyru.mongodb.net/devconnector",
+  "jwtSecret": "thisisasecrettoken",
+  "githubClientId": "9defaa23b9c668b1c589",
+  "githubSecret": "fb4b559b1429a9964da1d1c2fa34fb23937e1ade"
+}
